@@ -1,0 +1,4 @@
+2/13/2022,My money,100.00,I
+6/14/2023,Bani de bursa,1250.00,I
+12/3/2023,Bani pentru mancare,220.20,E
+4/15/2023,Bani pentru haine,130.35,I

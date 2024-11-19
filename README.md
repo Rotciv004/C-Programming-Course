@@ -1,3 +1,2 @@
 # C-Programming-Course
-Here I have a C program witch is a financial data management system that allows users to record, manage, and analyze their financial transactions (Proj1)
-and a program witch implements a basic accounting system with features for managing accounts and transactions (Proj2)
+A C-based application for recording, managing, and analyzing financial transactions. Includes features like expense tracking, income categorization, budget management, and basic financial reporting
